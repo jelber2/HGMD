@@ -1,4 +1,4 @@
-# HGMD
+# HGMD Pro R Shiny App Code
 
 hgmd_pro.R
 
